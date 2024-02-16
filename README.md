@@ -1,15 +1,15 @@
-# Hello there, I'm John Arocha! 👋
-## Full Stack Engineer | 3D Generalist
+# Hello World! 🌐 I'm John Arocha, your laid-back coder next door. 👋
+## Full Stack Engineer | Casual 3D Dabbler 🎮 | Car Enthusiast 🚗
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev" alt="johnarochadev" /></a> </p>
 
 Greetings! I'm on a journey to blend creativity with technology, wearing the hats of a Full Stack Engineer and a 3D Generalist. My passion lies in crafting immersive digital experiences and solving complex problems through the power of code and creativity. Currently, I'm delving into the fascinating world of **three.js** to enhance my 3D development skills.
 
-🚀 **Explore my projects at [johnarocha.netlify.app](https://johnarocha.netlify.app/)**
+🚀 **Check out my portfolio at [johnarocha.netlify.app](https://johnarocha.netlify.app/)**
 
 🌱 **Currently learning:** [three.js](https://threejs.org/)
 
-📧 **You can reach out to me at:** jparocha777@gmail.com
+📧 **Shoot me an email at:** jparocha777@gmail.com
 
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/johnarocha)
@@ -36,3 +36,5 @@ Greetings! I'm on a journey to blend creativity with technology, wearing the hat
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <!-- Add more icons as needed -->
 </p>
+
+**🌱 Let's keep it chill and code on! 💻✌️**
