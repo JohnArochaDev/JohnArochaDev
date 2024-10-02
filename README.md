@@ -5,7 +5,7 @@
 
 Greetings! I'm on a journey to blend creativity with technology, wearing the hats of a Full Stack Engineer and a 3D Generalist. My passion lies in crafting immersive digital experiences and solving complex problems through the power of code and creativity. Currently, I'm delving into the fascinating world of **three.js** to enhance my 3D development skills.
 
-🚀 **Check out my portfolio at [johnarocha.netlify.app](https://johnarocha.netlify.app/)**
+🚀 **Check out my portfolio at [johnarocha.netlify.app](https://johnarocha.com/)**
 
 🌱 **Currently learning:** [three.js](https://threejs.org/)
 
