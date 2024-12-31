@@ -1,4 +1,4 @@
-# Hello World! 🌐 I'm John Arocha, your laid-back coder next door. 👋
+# Hello World! 🌐 I'm John Arocha. 👋
 ## Full Stack Engineer | Casual 3D Dabbler 🎮 | Car Enthusiast 🚗
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev" alt="johnarochadev" /></a> </p>
@@ -34,7 +34,9 @@ Greetings! I'm on a journey to blend creativity with technology, wearing the hat
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Add more icons as needed -->
 </p>
 
-**🌱 Let's keep it chill and code on! 💻✌️**
+**💻 Code on! ✌️**
