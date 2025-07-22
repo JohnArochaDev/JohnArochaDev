@@ -1,9 +1,12 @@
 # Hello World! 🌐 I'm John Arocha. 👋
 ## Full Stack Engineer | Casual 3D Dabbler 🎮 | Car Enthusiast 🚗
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev" alt="johnarochadev" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-arocha" alt="john-arocha" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/johnarochadev"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev&margin-w=15&no-frame=true" alt="johnarochadev trophies" /></a>
+</p>
+<p align="left">
+  <a href="https://github.com/john-arocha"><img src="https://github-profile-trophy.vercel.app/?username=john-arocha&margin-w=15&no-frame=true" alt="john-arocha trophies" /></a>
+</p>
 
 Howdy! My name is John, and I am a Full-Stack developer, currently employed at Fiserv / Clover. I love working on random projects, building things no one has thought of (or dared to waste their time on), and working in the 3D realm! Take a look at my portfolio to see my favorite projects.
 
