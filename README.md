@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev" alt="johnarochadev" /></a> </p>
 
-Greetings! I'm on a journey to blend creativity with technology, wearing the hats of a Full Stack Engineer and a 3D Generalist. My passion lies in crafting immersive digital experiences and solving complex problems through the power of code and creativity. Currently, I'm delving into the fascinating world of **three.js** to enhance my 3D development skills.
+Howdy! My name is John, and I am a Full-Stack developer, currently employed at Fiserv / Clover. I love working on random projects, building things no one has though of (or dared to waste their time on), and working in the 3D realm! Take a look at my portfolio to see my favorite projects.  johnarocha.com
 
 🚀 **Check out my portfolio at [https://johnarocha.com](https://johnarocha.com/)**
 
