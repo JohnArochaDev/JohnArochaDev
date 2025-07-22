@@ -2,7 +2,7 @@
 ## Full Stack Engineer | Casual 3D Dabbler 🎮 | Car Enthusiast 🚗
 
 <p align="left">
-  <a href="https://github.com/johnarochadev"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev&margin-w=15&no-frame=true&rank=-C,-B" alt="johnarochadev trophies" /></a>
+  <a href="https://github.com/johnarochadev"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev&margin-w=15&no-frame=true&rank=-B" alt="johnarochadev trophies" /></a>
 </p>
 
 Howdy! My name is John, and I am a Full-Stack developer, currently employed at Fiserv / Clover. I love working on random projects, building things no one has thought of (or dared to waste their time on), and working in the 3D realm! Take a look at my portfolio to see my favorite projects.
