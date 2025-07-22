@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnarochadev" alt="johnarochadev" /></a> </p>
 
-Howdy! My name is John, and I am a Full-Stack developer, currently employed at Fiserv / Clover. I love working on random projects, building things no one has though of (or dared to waste their time on), and working in the 3D realm! Take a look at my portfolio to see my favorite projects.  johnarocha.com
+Howdy! My name is John, and I am a Full-Stack developer, currently employed at Fiserv / Clover. I love working on random projects, building things no one has though of (or dared to waste their time on), and working in the 3D realm! Take a look at my portfolio to see my favorite projects.
 
 🚀 **Check out my portfolio at [https://johnarocha.com](https://johnarocha.com/)**
 
