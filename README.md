@@ -15,7 +15,6 @@ Howdy! My name is John, and I am a Full-Stack developer, currently employed at F
 
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/johnarocha)
-- [GitHub (Secondary)](https://github.com/john-arocha)
 
 ### Languages and Tools:
 <p align="left">
